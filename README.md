@@ -1,7 +1,7 @@
 # Node_Nginx_Docker_Project
 
 # Introduction:
-Node.JS is a runtime environment, it is software that allows applications written in javascript to be executed on the underlying OS.
+Node.JS is a runtime environment, it is software that allows applications written in javascript to be executed on the underlying OS. Nginx is an open source HTTP Web server and reverses the proxy server. Nginx has considered as the popular Web server behind the Apache Web server and Microsoft’s IIS.
 
 # Pre-configurations needed:
 
